@@ -41,7 +41,7 @@ public class PrintToConsole : MonoBehaviour {
                 GotHome = true;
                 status.color= new Color(1f, 0.5f, 0.8f);
                 status.text = "Your Home!";
-                print("I am at home");
+                print("I am at home");  
             }
             else
             {
